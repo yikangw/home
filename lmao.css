@@ -57,7 +57,7 @@ body
 	font-size: 23px;
 	overflow-y: scroll;
 	overflow-x: hidden;
-	text-shadow: 3px 3px 6px #000000;
+	text-shadow: 2px 2px 4px #000000;
 }
 
 h1
@@ -152,7 +152,7 @@ hr
 	background: URL(overwatchwp2.jpg);
 	background-size: 100% 100%;
 	color: white;
-	text-shadow: 3px 3px 6px #000000;
+	text-shadow: 2px 2px 4px #000000;
 }
 
 .h
@@ -164,7 +164,7 @@ hr
 {
 	background: URL(overwatchwp3.jpg);
 	color: white;
-	text-shadow: 3px 3px 6px #000000;
+	text-shadow: 2px 2px 4px #000000;
 }
 
 .icon
