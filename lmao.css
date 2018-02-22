@@ -1,3 +1,9 @@
+@font-face
+{
+	font-family: 'BigNoodle';
+	src: url('bignoodletoo.ttf') format('TrueType'),
+		url('bignoodletoo.woff') format('woff');
+
 ul 
 {
     	list-style-type: none;
