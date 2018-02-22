@@ -1,9 +1,8 @@
 @font-face
 {
-	font-family: 'BigNoodle';
-	src: url('bignoodletoo.ttf') format('TrueType'),
-	url('bignoodletoo.woff') format('woff'),
-	url('bignooodletoo.svg') format('svg');
+	font-family: 'Koverwatch';
+	src: url('koverwatch.ttf') format('TrueType'),
+	url('koverwatch.svg') format('svg');
 }
 
 ul 
