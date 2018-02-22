@@ -1,12 +1,12 @@
 @font-face
 {
 	font-family: Koverwatch;
-	src: url('Koverwatch.ttf'), format('truetype');
+	src: url('koverwatch.ttf'), format('truetype');
 }
 @font-face
 {
 	font-family: BigNoodle;
-	src: url('BigNoodleToo.ttf') format('truetype');
+	src: url('bignoodletoo.ttf') format('truetype');
 }
 ul 
 {
