@@ -1,0 +1,190 @@
+@font-face
+{
+	font-family: Koverwatch;
+	src: url('Koverwatch.ttf'),
+	url('Koverwatch.eot');
+}
+@font-face
+{
+	font-family: BigNoodle;
+	src: url('BigNoodleToo.ttf'),
+	url('BigNoodleToo.eot');
+}
+ul 
+{
+    	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	overflow: hidden;
+    	background: #405275;
+	width: 98.5%;
+}
+
+li 
+{
+    	float: left;
+    	display: inline-block;
+    	color: white;
+    	text-align: center;
+    	padding: 12px 14px;
+    	text-decoration: none;
+	color: white;
+    	font-family: 'Koverwatch', sans-serif;
+	font-size: 20px;
+}
+
+li a:hover 
+{
+    	background-color: #7733ff;
+    	color: white;
+}
+
+li a 
+{
+    	display: block;
+    	color: white;
+    	padding: 8px 16px;
+    	text-decoration: none;
+}
+a
+{
+	color: lightblue;
+	text-decoration:  none;
+}
+
+a:hover   
+{
+  	text-decoration: none;
+  	font-weight: bold;
+  	color: skyblue;
+} 
+
+body 
+{
+	background: url("owsite2.jpg"); 
+	background-attachment: fixed;
+	color: #345177;
+	text-align: center;
+	font-family: 'Koverwatch', sans-serif;
+	font-size: 23px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	text-shadow: 3px 3px 6px #000000;
+}
+
+h1
+{
+	color: yellow;
+}
+
+h2
+{
+	color: limegreen;
+}
+
+.button 
+{
+	background-color: blue;
+	border: none;
+	color: white;
+	cursor: pointer;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 26px;
+	font-family: 'Koverwatch', sans-serif;
+	transition-duration: 0.4s;
+	-webkit-transition-duration: 0.4s;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button:hover
+{
+	font-weight: bold;
+	background-color: lightblue;
+	color: white;
+}
+
+.button:active 
+{
+  	transform: translateY(4px);
+
+}
+.image
+{
+	border-color : gray; 
+	border-width : large;
+	border-style : solid;
+}
+.italic
+{
+	font-style: italic;
+	font-size: 25px;
+	color: white;
+}
+
+.spaced
+{
+	line-height: 125%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.large
+{
+	font-size: 40px;
+	color: lightblue;
+	word-spacing: 20px;
+	margin: -10px;
+	text-align: center;
+}
+
+.logo
+{
+	margin: -8px;
+}
+
+.active 
+{
+	font-weight: bold;
+}
+
+hr 
+{
+    	display: block;
+    	height: 1px;
+    	border: 0;
+    	border-top: 1px solid #ccc;
+    	margin: 40px;
+   	padding: 0;
+}
+	
+.genji
+{
+	background: URL(overwatchwp2.jpg);
+	background-size: 100% 100%;
+	color: white;
+	text-shadow: 3px 3px 6px #000000;
+}
+
+.h
+{
+	color: #345177;
+}
+
+.beginner
+{
+	background: URL(overwatchwp3.jpg);
+	color: white;
+	text-shadow: 3px 3px 6px #000000;
+}
+
+.icon
+{
+	width: 5%;
+}
+
+.classes
+{
+	width: 22%;
+}
