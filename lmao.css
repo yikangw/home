@@ -2,7 +2,8 @@
 {
 	font-family: 'BigNoodle';
 	src: url('bignoodletoo.ttf') format('TrueType'),
-		url('bignoodletoo.woff') format('woff');
+	url('bignoodletoo.woff') format('woff'),
+	url('bignooodletoo.svg') format('svg');
 }
 
 ul 
